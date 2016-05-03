@@ -1,0 +1,29 @@
+{
+  "name": "d3-radial-bar-chart",
+  "homepage": "https://github.com/mudassir0909/d3-radial-bar-chart",
+  "authors": [
+    "mudassir0909 <mudassir.dev@gmail.com>"
+  ],
+  "description": "A robust/interactive/extensible radial bar chart built using d3js",
+  "main": "",
+  "keywords": [
+    "d3",
+    "radial",
+    "bar",
+    "chart",
+    "interactive",
+    "extensible",
+    "robust"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "^3.5.16"
+  }
+}
